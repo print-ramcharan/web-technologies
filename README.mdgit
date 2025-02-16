@@ -1,0 +1,1 @@
+# web-technologies initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/print-ramcharan/web-technologies.gitgit push -u origin main
